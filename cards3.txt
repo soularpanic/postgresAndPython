@@ -1,0 +1,14 @@
+Plains||Basic Land Plains
+Island||Basic Land Island
+Swamp||Basic Land Swamp
+Mountain||Basic Land Mountain
+Forest||Basic Land Forest
+Pelakka Wurm|4GGG|Creature Wurm
+Mana Leak|1U|Instant
+Duress|B|Sorcery
+White Knight|WW|Creature Human Knight
+Raging Goblin|R|Creature Goblin
+Vampire Nighthawk|1BB|Creature Vampire Shaman
+Viridian Emissary|1G|Creature Elf Scout
+Sakura-Tribe Elder|1G|Creature Snake Shaman
+Oona's Prowler|1B|Creature Faerie Rogue
